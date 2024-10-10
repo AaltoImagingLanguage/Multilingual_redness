@@ -1,119 +1,119 @@
-	Italian	English	Category
-0	cane	dog	animal
-1	cavallo	horse	animal
-2	anatra	duck	animal
-3	aquila	eagle	animal
-4	gatto	cat	animal
-5	leone	lion	animal
-6	topo	mouse	animal
-7	orso	bear	animal
-8	lupo	wolf	animal
-9	pecora	sheep	animal
-10	schiena	back	body
-11	braccio	arm	body
-12	occhio	eye	body
-13	gamba	leg	body
-14	orecchio	ear	body
-15	bocca	mouth	body
-16	dito del piede	toe	body
-17	dito	finger	body
-18	naso	nose	body
-19	labbra	lips	body
-20	chiesa	church	building
-21	strada	road	building
-22	fabbrica	factory	building
-23	castello	castle	building
-24	ponte	bridge	building
-25	prigione	prison	building
-26	torre	tower	building
-27	biblioteca	library	building
-28	museo	museum	building
-29	tempio	temple	building
-30	re	king	human
-31	soldato	soldier	human
-32	poliziotto	police officer	human
-33	prigioniero	prisoner	human
-34	prete	priest	human
-35	insegnante	teacher	human
-36	medico	medical doctor	human
-37	giudice	judge	human
-38	bambino	child	human
-39	fuoco	fire	nature
-40	fiume	river	nature
-41	isola	island	nature
-42	mare	sea	nature
-43	parco	park	nature
-44	montagna	mountain	nature
-45	roccia	rock	nature
-46	onda	wave	nature
-47	nuvola	cloud	nature
-48	nido	nest	nature
-49	libro	book	tool
-50	palla	ball	tool
-51	sega	saw	tool
-52	anello	ring	tool
-53	forbici	scissors	tool
-54	trapano	drill	tool
-55	cucchiaio	spoon	tool
-56	pala	shovel	tool
-57	pettine	comb	tool
-58	macchina	car	vehicle
-59	ideologia	ideology	abstract_high
-60	tempistica	timing	abstract_high
-61	stimare	estimate	abstract_high
-62	vantaggio	advantage	abstract_high
-63	storia	history	abstract_high
-64	età	age	abstract_high
-65	fenomeno	phenomenon	abstract_high
-66	inflazione	inflation	abstract_high
-67	bellezza	beauty	abstract_high
-68	destino	destiny	abstract_high
-69	esperienza	experience	abstract_high
-70	logica	logic	abstract_high
-71	reputazione	reputation	abstract_high
-72	merito	merit	abstract_high
-73	significato	meaning	abstract_high
-74	cambiamento	change	abstract_high
-75	quantita'	number	abstract_high
-76	giovinezza	youth	abstract_high
-77	problema	problem	abstract_high
-78	libertà	freedom	abstract_high
-79	soldi	money	abstract_high
-80	democrazia	demokracy	abstract_high
-81	investimento	investment	abstract_high
-82	volontà	will	abstract_high
-83	incantesimo	spell	abstract_high
-84	pausa	break	abstract_high
-85	potenza	power	abstract_high
-86	informazione	information	abstract_high
-87	potere	power	abstract_high
-88	senso	sense	abstract_high
-89	mattina	morning	abstract_mid
-90	esercito	army	abstract_mid
-91	batteri	bacteria	abstract_mid
-92	ossigeno	oxygen	abstract_mid
-93	prezzo	price	abstract_mid
-94	espressione	expression	abstract_mid
-95	sera	evening	abstract_mid
-96	infezione	infection	abstract_mid
-97	internet	internet	abstract_mid
-98	squadra	team	abstract_mid
-99	attrito	friction	abstract_mid
-100	taglia	size	abstract_mid
-101	canzone	song	abstract_mid
-102	gioco	play	abstract_mid
-103	allegato	attachment	abstract_mid
-104	natura	nature	abstract_mid
-105	voce	entry	abstract_mid
-106	caccia	hunting	abstract_mid
-107	musica	music	abstract_mid
-108	rappresentazione teatrale	play	abstract_mid
-109	pressione	pressure	abstract_mid
-110	peso	weight	abstract_mid
-111	discorso	speech	abstract_mid
-112	eruzione	eruption	abstract_mid
-113	poesia	poem	abstract_mid
-114	sfondo	background	abstract_mid
-115	opera	work	abstract_mid
-116	prova	proof	abstract_mid
-117	gene	gene	abstract_mid
+Italian	English	Category
+cane	dog	animal
+cavallo	horse	animal
+anatra	duck	animal
+aquila	eagle	animal
+gatto	cat	animal
+leone	lion	animal
+topo	mouse	animal
+orso	bear	animal
+lupo	wolf	animal
+pecora	sheep	animal
+schiena	back	body
+braccio	arm	body
+occhio	eye	body
+gamba	leg	body
+orecchio	ear	body
+bocca	mouth	body
+dito del piede	toe	body
+dito	finger	body
+naso	nose	body
+labbra	lips	body
+chiesa	church	building
+strada	road	building
+fabbrica	factory	building
+castello	castle	building
+ponte	bridge	building
+prigione	prison	building
+torre	tower	building
+biblioteca	library	building
+museo	museum	building
+tempio	temple	building
+re	king	human
+soldato	soldier	human
+poliziotto	police officer	human
+prigioniero	prisoner	human
+prete	priest	human
+insegnante	teacher	human
+medico	medical doctor	human
+giudice	judge	human
+bambino	child	human
+fuoco	fire	nature
+fiume	river	nature
+isola	island	nature
+mare	sea	nature
+parco	park	nature
+montagna	mountain	nature
+roccia	rock	nature
+onda	wave	nature
+nuvola	cloud	nature
+nido	nest	nature
+libro	book	tool
+palla	ball	tool
+sega	saw	tool
+anello	ring	tool
+forbici	scissors	tool
+trapano	drill	tool
+cucchiaio	spoon	tool
+pala	shovel	tool
+pettine	comb	tool
+macchina	car	vehicle
+ideologia	ideology	abstract_high
+tempistica	timing	abstract_high
+stimare	estimate	abstract_high
+vantaggio	advantage	abstract_high
+storia	history	abstract_high
+età	age	abstract_high
+fenomeno	phenomenon	abstract_high
+inflazione	inflation	abstract_high
+bellezza	beauty	abstract_high
+destino	destiny	abstract_high
+esperienza	experience	abstract_high
+logica	logic	abstract_high
+reputazione	reputation	abstract_high
+merito	merit	abstract_high
+significato	meaning	abstract_high
+cambiamento	change	abstract_high
+quantita'	number	abstract_high
+giovinezza	youth	abstract_high
+problema	problem	abstract_high
+libertà	freedom	abstract_high
+soldi	money	abstract_high
+democrazia	demokracy	abstract_high
+investimento	investment	abstract_high
+volontà	will	abstract_high
+incantesimo	spell	abstract_high
+pausa	break	abstract_high
+potenza	power	abstract_high
+informazione	information	abstract_high
+potere	power	abstract_high
+senso	sense	abstract_high
+mattina	morning	abstract_mid
+esercito	army	abstract_mid
+batteri	bacteria	abstract_mid
+ossigeno	oxygen	abstract_mid
+prezzo	price	abstract_mid
+espressione	expression	abstract_mid
+sera	evening	abstract_mid
+infezione	infection	abstract_mid
+internet	internet	abstract_mid
+squadra	team	abstract_mid
+attrito	friction	abstract_mid
+taglia	size	abstract_mid
+canzone	song	abstract_mid
+gioco	play	abstract_mid
+allegato	attachment	abstract_mid
+natura	nature	abstract_mid
+voce	entry	abstract_mid
+caccia	hunting	abstract_mid
+musica	music	abstract_mid
+rappresentazione teatrale	play	abstract_mid
+pressione	pressure	abstract_mid
+peso	weight	abstract_mid
+discorso	speech	abstract_mid
+eruzione	eruption	abstract_mid
+poesia	poem	abstract_mid
+sfondo	background	abstract_mid
+opera	work	abstract_mid
+prova	proof	abstract_mid
+gene	gene	abstract_mid

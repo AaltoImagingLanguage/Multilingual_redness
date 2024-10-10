@@ -1,119 +1,119 @@
-	English	Category
-0	dog	animal
-1	horse	animal
-2	duck	animal
-3	eagle	animal
-4	cat	animal
-5	lion	animal
-6	mouse	animal
-7	bear	animal
-8	wolf	animal
-9	sheep	animal
-10	back	body
-11	arm	body
-12	eye	body
-13	leg	body
-14	ear	body
-15	mouth	body
-16	toe	body
-17	finger	body
-18	nose	body
-19	lips	body
-20	church	building
-21	road	building
-22	factory	building
-23	castle	building
-24	bridge	building
-25	prison	building
-26	tower	building
-27	library	building
-28	museum	building
-29	temple	building
-30	king	human
-31	soldier	human
-32	police officer	human
-33	prisoner	human
-34	priest	human
-35	teacher	human
-36	medical doctor	human
-37	judge	human
-38	child	human
-39	fire	nature
-40	river	nature
-41	island	nature
-42	sea	nature
-43	park	nature
-44	mountain	nature
-45	rock	nature
-46	wave	nature
-47	cloud	nature
-48	nest	nature
-49	book	tool
-50	ball	tool
-51	saw	tool
-52	ring	tool
-53	scissors	tool
-54	drill	tool
-55	spoon	tool
-56	shovel	tool
-57	comb	tool
-58	car	vehicle
-59	ideology	abstract_high
-60	timing	abstract_high
-61	estimate	abstract_high
-62	advantage	abstract_high
-63	history	abstract_high
-64	age	abstract_high
-65	phenomenon	abstract_high
-66	inflation	abstract_high
-67	beauty	abstract_high
-68	destiny	abstract_high
-69	experience	abstract_high
-70	logic	abstract_high
-71	reputation	abstract_high
-72	merit	abstract_high
-73	meaning	abstract_high
-74	change	abstract_high
-75	number	abstract_high
-76	youth	abstract_high
-77	problem	abstract_high
-78	freedom	abstract_high
-79	money	abstract_high
-80	demokracy	abstract_high
-81	investment	abstract_high
-82	will	abstract_high
-83	spell	abstract_high
-84	break	abstract_high
-85	power	abstract_high
-86	information	abstract_high
-87	power	abstract_high
-88	sense	abstract_high
-89	morning	abstract_mid
-90	army	abstract_mid
-91	bacteria	abstract_mid
-92	oxygen	abstract_mid
-93	price	abstract_mid
-94	expression	abstract_mid
-95	evening	abstract_mid
-96	infection	abstract_mid
-97	internet	abstract_mid
-98	team	abstract_mid
-99	friction	abstract_mid
-100	size	abstract_mid
-101	song	abstract_mid
-102	play	abstract_mid
-103	attachment	abstract_mid
-104	nature	abstract_mid
-105	entry	abstract_mid
-106	hunting	abstract_mid
-107	music	abstract_mid
-108	play	abstract_mid
-109	pressure	abstract_mid
-110	weight	abstract_mid
-111	speech	abstract_mid
-112	eruption	abstract_mid
-113	poem	abstract_mid
-114	background	abstract_mid
-115	work	abstract_mid
-116	proof	abstract_mid
-117	gene	abstract_mid
+English	Category
+dog	animal
+horse	animal
+duck	animal
+eagle	animal
+cat	animal
+lion	animal
+mouse	animal
+bear	animal
+wolf	animal
+sheep	animal
+back	body
+arm	body
+eye	body
+leg	body
+ear	body
+mouth	body
+toe	body
+finger	body
+nose	body
+lips	body
+church	building
+road	building
+factory	building
+castle	building
+bridge	building
+prison	building
+tower	building
+library	building
+museum	building
+temple	building
+king	human
+soldier	human
+police officer	human
+prisoner	human
+priest	human
+teacher	human
+medical doctor	human
+judge	human
+child	human
+fire	nature
+river	nature
+island	nature
+sea	nature
+park	nature
+mountain	nature
+rock	nature
+wave	nature
+cloud	nature
+nest	nature
+book	tool
+ball	tool
+saw	tool
+ring	tool
+scissors	tool
+drill	tool
+spoon	tool
+shovel	tool
+comb	tool
+car	vehicle
+ideology	abstract_high
+timing	abstract_high
+estimate	abstract_high
+advantage	abstract_high
+history	abstract_high
+age	abstract_high
+phenomenon	abstract_high
+inflation	abstract_high
+beauty	abstract_high
+destiny	abstract_high
+experience	abstract_high
+logic	abstract_high
+reputation	abstract_high
+merit	abstract_high
+meaning	abstract_high
+change	abstract_high
+number	abstract_high
+youth	abstract_high
+problem	abstract_high
+freedom	abstract_high
+money	abstract_high
+demokracy	abstract_high
+investment	abstract_high
+will	abstract_high
+spell	abstract_high
+break	abstract_high
+power	abstract_high
+information	abstract_high
+power	abstract_high
+sense	abstract_high
+morning	abstract_mid
+army	abstract_mid
+bacteria	abstract_mid
+oxygen	abstract_mid
+price	abstract_mid
+expression	abstract_mid
+evening	abstract_mid
+infection	abstract_mid
+internet	abstract_mid
+team	abstract_mid
+friction	abstract_mid
+size	abstract_mid
+song	abstract_mid
+play	abstract_mid
+attachment	abstract_mid
+nature	abstract_mid
+entry	abstract_mid
+hunting	abstract_mid
+music	abstract_mid
+play	abstract_mid
+pressure	abstract_mid
+weight	abstract_mid
+speech	abstract_mid
+eruption	abstract_mid
+poem	abstract_mid
+background	abstract_mid
+work	abstract_mid
+proof	abstract_mid
+gene	abstract_mid

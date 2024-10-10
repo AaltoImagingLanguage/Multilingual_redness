@@ -1,119 +1,119 @@
-	Armenian	English	Category
-0	շուն	dog	animal
-1	ձի	horse	animal
-2	բադ	duck	animal
-3	արծիվ	eagle	animal
-4	կատու	cat	animal
-5	առյուծ	lion	animal
-6	մուկ	mouse	animal
-7	արջ	bear	animal
-8	գայլ	wolf	animal
-9	ոչխար	sheep	animal
-10	մեջք	back	body
-11	ձեռք	arm	body
-12	աչք	eye	body
-13	ոտք	leg	body
-14	ականջ	ear	body
-15	բերան	mouth	body
-16	ոտքի մատ	toe	body
-17	մատ	finger	body
-18	քիթ	nose	body
-19	շուրթեր	lips	body
-20	եկեղեցի	church	building
-21	ճանապարհ	road	building
-22	գործարան	factory	building
-23	ամրոց	castle	building
-24	կամուրջ	bridge	building
-25	բանտ	prison	building
-26	աշտարակ	tower	building
-27	գրադարան	library	building
-28	թանգարան	museum	building
-29	տաճար	temple	building
-30	թագավոր	king	human
-31	զինվոր	soldier	human
-32	ոստիկան	police officer	human
-33	կալանավոր	prisoner	human
-34	քահանա	priest	human
-35	ուսուցիչ	teacher	human
-36	բժիշկ	medical doctor	human
-37	դատավոր	judge	human
-38	երեխա	child	human
-39	կրակ	fire	nature
-40	գետ	river	nature
-41	կղզի	island	nature
-42	ծով	sea	nature
-43	այգի	park	nature
-44	լեռ	mountain	nature
-45	քար	rock	nature
-46	ալիք	wave	nature
-47	ամպ	cloud	nature
-48	բույն	nest	nature
-49	գիրք	book	tool
-50	գնդակ	ball	tool
-51	սղոց	saw	tool
-52	մատանի	ring	tool
-53	մկրատ	scissors	tool
-54	հորատիչ	drill	tool
-55	գդալ	spoon	tool
-56	բահ	shovel	tool
-57	սանր	comb	tool
-58	մեքենա	car	vehicle
-59	գաղափարախոսություն	ideology	abstract_high
-60	ժամանակացույց	timing	abstract_high
-61	գնահատում	estimate	abstract_high
-62	առավելություն	advantage	abstract_high
-63	պատմություն	history	abstract_high
-64	տարիք	age	abstract_high
-65	երևույթ	phenomenon	abstract_high
-66	գնաճ	inflation	abstract_high
-67	գեղեցկություն	beauty	abstract_high
-68	ճակատագիր	destiny	abstract_high
-69	փորձ	experience	abstract_high
-70	տրամաբանություն	logic	abstract_high
-71	համբավ	reputation	abstract_high
-72	արժանիք	merit	abstract_high
-73	նշանակություն	meaning	abstract_high
-74	փոփոխություն	change	abstract_high
-75	քանակ	number	abstract_high
-76	երիտասարդություն	youth	abstract_high
-77	խնդիր	problem	abstract_high
-78	ազատություն	freedom	abstract_high
-79	փող	money	abstract_high
-80	ժողովրդավարություն	demokracy	abstract_high
-81	ներդրում	investment	abstract_high
-82	կամք	will	abstract_high
-83	կախարդանք	spell	abstract_high
-84	ընդմիջում	break	abstract_high
-85	ուժ	power	abstract_high
-86	տեղեկատվություն	information	abstract_high
-87	իշխանություն	power	abstract_high
-88	բանականություն	sense	abstract_high
-89	առավոտ	morning	abstract_mid
-90	բանակ	army	abstract_mid
-91	բակտերիա	bacteria	abstract_mid
-92	թթվածին	oxygen	abstract_mid
-93	գին	price	abstract_mid
-94	արտահայտություն	expression	abstract_mid
-95	երեկո	evening	abstract_mid
-96	վարակ	infection	abstract_mid
-97	ինտերնետ	internet	abstract_mid
-98	թիմ	team	abstract_mid
-99	շփում	friction	abstract_mid
-100	չափս	size	abstract_mid
-101	երգ	song	abstract_mid
-102	խաղ	play	abstract_mid
-103	հավելված	attachment	abstract_mid
-104	բնություն	nature	abstract_mid
-105	նշում	entry	abstract_mid
-106	որսորդություն	hunting	abstract_mid
-107	երաժշտություն	music	abstract_mid
-108	ներկայացում	play	abstract_mid
-109	ճնշում	pressure	abstract_mid
-110	քաշ	weight	abstract_mid
-111	խոսք	speech	abstract_mid
-112	ժայթքում	eruption	abstract_mid
-113	բանաստեղծություն	poem	abstract_mid
-114	ֆոն	background	abstract_mid
-115	ստեղծագործություն	work	abstract_mid
-116	ապացույց	proof	abstract_mid
-117	գեն	gene	abstract_mid
+Armenian	English	Category
+շուն	dog	animal
+ձի	horse	animal
+բադ	duck	animal
+արծիվ	eagle	animal
+կատու	cat	animal
+առյուծ	lion	animal
+մուկ	mouse	animal
+արջ	bear	animal
+գայլ	wolf	animal
+ոչխար	sheep	animal
+մեջք	back	body
+ձեռք	arm	body
+աչք	eye	body
+ոտք	leg	body
+ականջ	ear	body
+բերան	mouth	body
+ոտքի մատ	toe	body
+մատ	finger	body
+քիթ	nose	body
+շուրթեր	lips	body
+եկեղեցի	church	building
+ճանապարհ	road	building
+գործարան	factory	building
+ամրոց	castle	building
+կամուրջ	bridge	building
+բանտ	prison	building
+աշտարակ	tower	building
+գրադարան	library	building
+թանգարան	museum	building
+տաճար	temple	building
+թագավոր	king	human
+զինվոր	soldier	human
+ոստիկան	police officer	human
+կալանավոր	prisoner	human
+քահանա	priest	human
+ուսուցիչ	teacher	human
+բժիշկ	medical doctor	human
+դատավոր	judge	human
+երեխա	child	human
+կրակ	fire	nature
+գետ	river	nature
+կղզի	island	nature
+ծով	sea	nature
+այգի	park	nature
+լեռ	mountain	nature
+քար	rock	nature
+ալիք	wave	nature
+ամպ	cloud	nature
+բույն	nest	nature
+գիրք	book	tool
+գնդակ	ball	tool
+սղոց	saw	tool
+մատանի	ring	tool
+մկրատ	scissors	tool
+հորատիչ	drill	tool
+գդալ	spoon	tool
+բահ	shovel	tool
+սանր	comb	tool
+մեքենա	car	vehicle
+գաղափարախոսություն	ideology	abstract_high
+ժամանակացույց	timing	abstract_high
+գնահատում	estimate	abstract_high
+առավելություն	advantage	abstract_high
+պատմություն	history	abstract_high
+տարիք	age	abstract_high
+երևույթ	phenomenon	abstract_high
+գնաճ	inflation	abstract_high
+գեղեցկություն	beauty	abstract_high
+ճակատագիր	destiny	abstract_high
+փորձ	experience	abstract_high
+տրամաբանություն	logic	abstract_high
+համբավ	reputation	abstract_high
+արժանիք	merit	abstract_high
+նշանակություն	meaning	abstract_high
+փոփոխություն	change	abstract_high
+քանակ	number	abstract_high
+երիտասարդություն	youth	abstract_high
+խնդիր	problem	abstract_high
+ազատություն	freedom	abstract_high
+փող	money	abstract_high
+ժողովրդավարություն	demokracy	abstract_high
+ներդրում	investment	abstract_high
+կամք	will	abstract_high
+կախարդանք	spell	abstract_high
+ընդմիջում	break	abstract_high
+ուժ	power	abstract_high
+տեղեկատվություն	information	abstract_high
+իշխանություն	power	abstract_high
+բանականություն	sense	abstract_high
+առավոտ	morning	abstract_mid
+բանակ	army	abstract_mid
+բակտերիա	bacteria	abstract_mid
+թթվածին	oxygen	abstract_mid
+գին	price	abstract_mid
+արտահայտություն	expression	abstract_mid
+երեկո	evening	abstract_mid
+վարակ	infection	abstract_mid
+ինտերնետ	internet	abstract_mid
+թիմ	team	abstract_mid
+շփում	friction	abstract_mid
+չափս	size	abstract_mid
+երգ	song	abstract_mid
+խաղ	play	abstract_mid
+հավելված	attachment	abstract_mid
+բնություն	nature	abstract_mid
+նշում	entry	abstract_mid
+որսորդություն	hunting	abstract_mid
+երաժշտություն	music	abstract_mid
+ներկայացում	play	abstract_mid
+ճնշում	pressure	abstract_mid
+քաշ	weight	abstract_mid
+խոսք	speech	abstract_mid
+ժայթքում	eruption	abstract_mid
+բանաստեղծություն	poem	abstract_mid
+ֆոն	background	abstract_mid
+ստեղծագործություն	work	abstract_mid
+ապացույց	proof	abstract_mid
+գեն	gene	abstract_mid
