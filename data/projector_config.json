@@ -1,1 +1,59 @@
-
+{
+    "embeddings": [
+	{
+	    "tensorName": "Redness1_fi",
+	    "tensorShape": [
+		118,
+		300
+	    ],
+	    "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/fi_vectors.tsv",
+	    "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/fi_metadata.tsv"
+	},
+	{
+	    "tensorName": "Redness1_en",
+	    "tensorShape": [
+		118,
+		300
+	    ],
+	    "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/en_vectors.tsv",
+	    "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/en_metadata.tsv"
+	},
+	{
+	    "tensorName": "Redness1_de",
+	    "tensorShape": [
+		118,
+		300
+	    ],
+	    "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/de_vectors.tsv",
+	    "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/de_metadata.tsv"
+     },
+     {
+	 "tensorName": "Redness1_nl",
+	 "tensorShape": [
+	     118,
+	     300
+	 ],
+	 "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/nl_vectors.tsv",
+	 "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/nl_metadata.tsv"
+     },
+      {
+	 "tensorName": "Redness1_it",
+	 "tensorShape": [
+	     118,
+	     300
+	 ],
+	 "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/it_vectors.tsv",
+	 "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/it_metadata.tsv"
+     },
+      {
+	 "tensorName": "Redness1_hy",
+	 "tensorShape": [
+	     118,
+	     300
+	 ],
+	 "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/hy_vectors.tsv",
+	 "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/hy_metadata.tsv"
+     },
+     
+ ]
+}
