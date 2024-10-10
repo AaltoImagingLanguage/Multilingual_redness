@@ -53,7 +53,7 @@
 	 ],
 	 "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/hy_vectors.tsv",
 	 "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/Multilingual_redness/master/data/hy_metadata.tsv"
-     },
+     }
      
  ]
 }
